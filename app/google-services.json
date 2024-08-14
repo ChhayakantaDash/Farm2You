@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665552283449",
+    "project_id": "farm2you-d7c9c",
+    "storage_bucket": "farm2you-d7c9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665552283449:android:3dd402449ff7e8db28eae8",
+        "android_client_info": {
+          "package_name": "com.package.Farm2You"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3MJziOT3JX2OjRRb0BoP9FtHuBCnqSgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
