@@ -2,7 +2,7 @@ data class User(
     val uid: String = "",
     val name: String = "",
     val email: String = "",
-    val userType: UserType = UserType.CONSUMER // Default to consumer
+    val userType: UserType = UserType.CONSUMER
 )
 
 enum class UserType {
